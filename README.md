@@ -1,4 +1,4 @@
 bookmarks-slideshow
 ===================
 
-Cycles through your bookmarks as slishow.
+Cycles through your bookmarks as slideshow.
